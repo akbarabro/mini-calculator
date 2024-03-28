@@ -44,3 +44,4 @@ if (answer.operator === "Addition (+)") {
 } else {
   console.log("Kindly select the operator");
 }
+console.log("Thank to Allah almighty")
