@@ -1,6 +1,6 @@
 {
   "name": "akbar-mini-calculator",
-  "version": "1.0.0",
+  "version": "3.0.1",
   "description": "Welcome To my mini calculator project ",
   "main": "index.js",
   "type": "module",
